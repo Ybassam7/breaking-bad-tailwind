@@ -9,12 +9,12 @@ This project showcases the series’ main characters through clean layouts, smoo
 
 ## Features
 
-- ⚛️ Built with **React** and **Vite**
-- 🎨 Styled using **Tailwind CSS**
-- 🌓 Includes a fully functional **Dark Mode**
-- 💡 **Responsive design** for all screen sizes
-- 🔄 Alternating layout for even/odd sections
-- 🧩 Clean component structure
+- Built with **React** and **Vite**
+- Styled using **Tailwind CSS**
+- Includes a fully functional **Dark Mode**
+- **Responsive design** for all screen sizes
+- Alternating layout for even/odd sections
+- Clean component structure
 
 ---
 
